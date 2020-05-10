@@ -57,7 +57,7 @@ Additionally, we tried to lemmatize our data which regresses words back to their
 
 ## Results
 
-| Topic 0 | Topic 1 | Topic 2 | Topic 3 | Topic 4 |
+| Topic 1 | Topic 2 | Topic 3 | Topic 4 | Topic 5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | expedition | night | alberta | creature | symposium |
 | florida | sound | marina | hair | producer |
@@ -70,15 +70,15 @@ Additionally, we tried to lemmatize our data which regresses words back to their
 | bfro | feet | hut | sighting | director |
 | wa | trees | coola | head | grandson |
 
-* Topic 0: Location
+* Topic 1: Location
 
-* Topic 1: Environment/Where people are when they encounter Bigfoot
+* Topic 2: Environment/Where people are when they encounter Bigfoot
 
-* Topic 2: Location type
+* Topic 3: Location type
 
-* Topic 3: Description of Bigfoot
+* Topic 4: Description of Bigfoot
 
-* Topic 4: Film/Video capturing Bigfoot
+* Topic 5: Film/Video capturing Bigfoot
 
 The topics themselves do not carry any weighting over another. The words are displayed in the highest probability.
 
